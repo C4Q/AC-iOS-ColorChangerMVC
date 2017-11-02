@@ -58,6 +58,7 @@
                     </view>
                     <connections>
                         <outlet property="colorLabel" destination="uSK-C7-e62" id="CH9-Cc-VO6"/>
+                        <outlet property="colorView" destination="EfP-Ld-wqO" id="xUn-Jg-9pE"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

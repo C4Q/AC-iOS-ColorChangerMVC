@@ -44,6 +44,7 @@ class ColorChangerModel {
         if currentIndex >= colors.count {
             currentIndex = 0
         }
+        currentColor = colors[currentIndex]
         return colors[currentIndex].color
     }
     
